@@ -1,4 +1,4 @@
-## Model-Based Opponent modeling(MBOM)
+## Model-Based Opponent Modeling(MBOM)
 
 ### Requirements
 python==3.6
